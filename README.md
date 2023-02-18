@@ -10,7 +10,7 @@ sudo npm install -g nodemon --unsafe-perm
 npm start
 
 # client side
-# need to install
+need to install
 npm i socket.io-client 
 
 # to run client side
