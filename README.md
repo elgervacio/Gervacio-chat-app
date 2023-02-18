@@ -13,5 +13,5 @@ npm start
 need to install
 npm i socket.io-client 
 
-# to run client side
+to run client side
 npm run dev
