@@ -11,5 +11,7 @@ npm start
 
 # client side
 # need to install
-npm i socket.io-client   
+npm i socket.io-client 
+
+# to run client side
 npm run dev
