@@ -10,6 +10,8 @@ npm i socket.oi express cors
 --for Macbook
 
 sudo npm install -g nodemon --unsafe-perm
+
+npm i socket.oi express cors
 # to run server side 
 npm start
 
