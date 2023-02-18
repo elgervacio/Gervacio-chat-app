@@ -11,7 +11,7 @@ npm i socket.oi express cors
 
 sudo npm install -g nodemon --unsafe-perm
 
-npm i socket.oi express cors
+sudo npm i socket.oi express cors
 # to run server side 
 npm start
 
