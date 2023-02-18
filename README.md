@@ -2,7 +2,7 @@
 
 # server side
 npm i socket.oi express cors 
-# to run server side side
+# to run server side 
 npm start
 
 # client side
